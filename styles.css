@@ -1,0 +1,99 @@
+body {
+
+}
+
+p {
+  margin: 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+.container-fluid {
+  padding: 7% 15%;
+}
+
+.color-section {
+  background-color: #FC4F4F;
+  color: #fff;
+}
+
+.white-section {
+  background-color: #fff;
+}
+
+.big-icon {
+  color: #F76E11;
+  font-size: 6rem;
+  text-align: center;
+  width: 100px;
+}
+
+/* Navbar */
+.navbar {
+  padding: 15px 15%;
+}
+
+.navbar-brand {
+  font-size: 3rem;
+}
+
+.navbar-menu {
+  margin-right: 15%;
+  margin: 0 15% 0 0;
+}
+
+.nav-link {
+  color: #999;
+  display: inline-block;
+  margin: 10px;
+}
+
+/* About */
+.portrait-img {
+  border-radius: 50%;
+}
+
+.about-text {
+  width: 75%;
+  line-height: 2rem;
+}
+
+/* Features */
+.features-heading {
+  text-align: center;
+  margin-bottom: 10%;
+}
+
+.features-item {
+  margin: 5% auto;
+  width: 60%;
+}
+
+.features-text {
+  line-height: 1.5rem;
+  /* width: 50%; */
+}
+
+/* Pricing */
+#pricing {
+  text-align: center;
+}
+
+/* Kontakt */
+#contact {
+  text-align: center;
+}
+
+.contact-list {
+  list-style-type: none;
+  padding-left: 0;
+  margin-top: 5%;
+}
+
+/* Footer */
+#footer {
+  padding: 3% 15%;
+  text-align: center;
+}
